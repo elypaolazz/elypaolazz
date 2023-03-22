@@ -17,6 +17,14 @@ Thesis project concerning the development of a Natural Language Processing Web A
 _"Flask & NLP: Graphical User Interface for Text Annotation"_
 
 # About my GitHub
+In this GitHub profile, you can find repositories presenting university course projects covering various areas of Data Science and Machine & Deep Learning, including:
+- 🔎 Data Mining (Recommendation Systems);
+- 🛢️ Big Data Technologies (Apache Airflow integration);
+- 🌍 Geospatial Analysis and Representation;
+- 🌐 Advanced Social Network Analysis;
+- 👁️ Computer Vision;
+- 🔠 Natural Language Processing (POS tagging application);
+- 📈 Statistical Learning
 
 ## My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elypaolazz&theme=dark&background=000000)](https://git.io/streak-stats)
